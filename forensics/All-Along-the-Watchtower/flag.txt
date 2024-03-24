@@ -1,0 +1,13 @@
+Pretty easy.
+
+Just fix the corrupted jpg file to proper file heading of JPG using hexedit.
+
+Then check exiftools and aperisolve.
+
+
+Found some crucial infromation.
+
+view: https://imgur.com/a/pgSPwRp
+
+
+I convert the protected_2.7z to zip file so I can use the python code to brute-force the password list.
