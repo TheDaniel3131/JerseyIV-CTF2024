@@ -1,0 +1,6 @@
+Open Audacity -> Turn on Spectogram -> flag is there
+
+view: https://imgur.com/a/qgMMdOg
+
+
+flag: jctf{wav1ng_fr0m_th3_futur3}
