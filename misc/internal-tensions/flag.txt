@@ -1,0 +1,6 @@
+https://jerseyctf.com/
+
+view source code and follow the trace of the flag.
+
+okay I found something interesting, it said hope no one see the website last month. So that means one thing, we can use waybackmachine.
+

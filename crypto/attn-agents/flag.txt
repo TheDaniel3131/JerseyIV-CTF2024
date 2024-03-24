@@ -1,0 +1,8 @@
+dcode it 
+
+and you will get this
+
+Attention JCTF agents! An unknown APT is hijacking networks to spread stealth malware using stolen source code. Your mission: track down the source of the leaks and stop the wide-spread attacks across our networks. Time is running out. The {fate-of-the-web} is in your hands!
+
+
+flag: jctf{fate-of-the-web}
