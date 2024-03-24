@@ -1,0 +1,8 @@
+read the rules carefully.
+
+make sure you react the rules either thumbs up or check and the bot will send you the flag.
+
+flag: jctf{rul3s_4r3_1mp0rt4nt_1n_JCTF_2024}
+
+
+
