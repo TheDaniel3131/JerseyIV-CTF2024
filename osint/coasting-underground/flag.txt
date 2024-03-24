@@ -1,0 +1,1 @@
+https://bubbablueandme.com/nottingham-city-of-caves/Make sure you follow the flag format properly!Flag Format: jctf{name_of_attraction}flag: jctf{city_of_caves}
