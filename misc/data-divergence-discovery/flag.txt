@@ -1,0 +1,6 @@
+I use https://www.diffchecker.com/text-compare/ to compare two paragraphs' texts.
+
+you will get the flag below:
+
+jctf{qu4ntum_c1ph3r5}
+
