@@ -1,0 +1,65 @@
+this challenge is about how to use log4j.
+
+go to http://44.202.69.161:8080/
+
+test any text and send it to the bot.
+
+view source code.
+
+view-source:http://44.202.69.161:8080/
+
+I found something interesting
+
+        function getRandomResponse() {
+            var responses = [
+                "That's interesting, tell me more.",
+                "I'm not sure I understand.",
+                "Can you rephrase that?",
+                "You are not getting the answer that way.",
+                "Try again when I am feeling better please.",
+                "You look very nice today, I hope you know :)",
+                "Nope.",
+
+                /*
+                
+                //if you are looking for the flag, maybe type something with this {jndi:ldap://}
+
+                */
+                "Lol, not today.",
+                "Please stop spamming me.",
+                "Oh, that's interesting! Tell me more.",
+                "Hmm, I'm not quite sure what you mean.",
+                "Could you elaborate on that?",
+                "That sounds exciting!",
+                "I see, but could you clarify a bit?",
+                "Wow, I had no idea!",
+                "Are you sure about that?",
+                "That's a great point.",
+                "I understand. What next?",
+                "Can you rephrase that for me?",
+                "Let's change the topic, shall we?",
+                "I'm here to listen... go on.",
+                "That's quite a thought.",
+                "Do you really think so?",
+                "I'm not sure I agree.",
+                "That's one way to look at it.",
+                "Interesting perspective. Anything else?",
+                "That's a bit beyond my understanding.",
+                "Hmm, let's ponder on that.",
+                "I'm all ears.",
+                "Can we delve deeper into this topic?",
+                "I'm intrigued, please continue.",
+                "That's something new to me.",
+                "Quite a unique viewpoint!",
+                "Let's unpack that statement a bit more.",
+                ];
+            return responses[Math.floor(Math.random() * responses.length)];
+        }
+
+
+
+send this to the bot. {jndi:ldap://}
+
+you get the flag: 
+Whoops the flag leaked: jctf{logged_into_the_matrix}
+(anonymous) @ (index):101
