@@ -1,0 +1,4 @@
+drag your apk file to android studio and run emulator
+
+
+flag: jctf{c4n_y0u_s33_m3?}

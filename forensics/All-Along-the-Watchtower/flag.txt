@@ -11,3 +11,6 @@ view: https://imgur.com/a/pgSPwRp
 
 
 I convert the protected_2.7z to zip file so I can use the python code to brute-force the password list.
+
+thanks to these people: https://github.com/xhdljr/7zpasscrack.git
+
