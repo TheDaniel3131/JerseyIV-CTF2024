@@ -1,0 +1,3 @@
+ah easy flag lol
+
+flag: jctf{tH@nks_for_aTTending_P@RT4!!!}
