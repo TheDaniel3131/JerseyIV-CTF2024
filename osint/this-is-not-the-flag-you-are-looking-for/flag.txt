@@ -1,0 +1,9 @@
+so this image you see motto.PNG is a Semaphore Flag or Semaphore Signal.
+
+decoded code:
+FIREPOWER_FOR_FREEDOM
+
+
+flag format: jctf{USS_Name_Of_Ship_TypeOfShip_Number}
+
+flag: jctf{USS_New_Jersey_BB_62}
