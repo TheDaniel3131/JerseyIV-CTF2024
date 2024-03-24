@@ -1,0 +1,14 @@
+http://44.210.135.76/
+
+follow the instruction and click I consent.
+
+check view source code
+
+this challenge basically indicates for you to explore and try everything to get the flag. it looks like a virus affected website
+but it is not.
+
+
+index.html -> http://44.210.135.76/sites/Nothing2.html -> try the last check number: 12.
+
+
+flag: jctf{here_Ins_47}
